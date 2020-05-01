@@ -1,7 +1,8 @@
-https://www.cnblogs.com/wulibo/p/10605537.html
+https://www.cnblogs.com/wulibo/p/10605537.html过windows系统的电脑上写代码，需要将项目上传到GitHub上去
 
 
+如何在windows下将本地文件上传到git仓库中
 https://www.jianshu.com/p/6dbe47debc0c
 
-
+如何从本地添加项目到Github？（Windows）
 https://www.cnblogs.com/yoke/p/7719940.html
